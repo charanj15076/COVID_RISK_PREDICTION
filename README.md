@@ -1,4 +1,4 @@
-# Covid Classification using AI Platform
+# Covid Classification
 
 ## What this repo contains?
 
