@@ -2,7 +2,9 @@
 
 ## What this repo contains?
 
-This repository has the code to test a simple ML model deployed in GCP AI Platform 
+This repository has the code to test a simple ML model deployed in GCP AI Platform
+Directory Covid contains Streamlit webapp 
+and rest of the files are the code for Data Analysis, Data Cleaning and Data prediction which are to be executed in GCP cluster.
 
 
 ## Package Requirements
